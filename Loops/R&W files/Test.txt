@@ -1,0 +1,3 @@
+Voici des valeurs utiles :
+1.618
+3.141592653

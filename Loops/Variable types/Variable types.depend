@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524491328 source:c:\users\administrateur\desktop\codeblocks project\loops\variable types\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1524491102 c:\users\administrateur\desktop\codeblocks project\loops\variable types\main.h
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1524447823 source:c:\users\administrateur\desktop\codeblocks project\loops\char chain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1524449015 source:c:\users\administrateur\desktop\codeblocks project\loops\char chain\exercice.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"exercice.h"
+
+1524448951 c:\users\administrateur\desktop\codeblocks project\loops\char chain\exercice.h
+

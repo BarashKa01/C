@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522108814 source:c:\users\administrateur\desktop\codeblocks project\loops\loops\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1523140115 source:c:\users\administrateur\desktop\codeblocks project\loops\loops\2nd way to do (tp).c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
