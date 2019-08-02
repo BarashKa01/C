@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523132776 source:c:\users\administrateur\desktop\codeblocks project\tableaux\tableaux\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1523132639 c:\users\administrateur\desktop\codeblocks project\tableaux\tableaux\main.h
+
